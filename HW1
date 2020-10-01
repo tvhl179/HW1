@@ -29,6 +29,8 @@
 // fd(100);
 // rt(90);
 // fd(100);
+// rt(90);
+// fd(100);
 
 //2. A equilateral triangle
 // rt(90);
