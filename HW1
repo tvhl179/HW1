@@ -23,7 +23,7 @@
 // console.log(`${a} (C) = ${b} (F)`);
 
 //Ex4: Draw using Turtle
-// // 1. A square
+// 1. A square
 // fd(100);
 // rt(90);
 // fd(100);
