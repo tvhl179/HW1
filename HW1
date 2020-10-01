@@ -1,0 +1,39 @@
+// Ex1: Search and answer
+// - To check a variable's type, we use the operator called "typeof". The expected output will be number, string,
+// boolean, undefined,...
+// - Name of variables in JS should follow some rules, for example
+//      + Start with _ or letters, not numbers
+//      + Not concide with keywords like var, let, for, if, ...
+//      + No space between characters
+//      + Not include special characters like ( ) % , & *
+//      + ...
+// - Examples of invalid names: dau catmoi, %6969, 0congidemat
+
+
+//Ex2: Calculate the area of a circle
+// let a = parseInt(prompt("Radius?"));
+// console.log(`Radius = ${a}`);
+// b = a * a * 3.14;
+// console.log(`Area = ${b}`);
+
+//Ex3: Convert Celsius into Fahrenheit
+// let a = prompt("Enter the temperature in Celsius?");
+// console.log(`Enter the temperature in Celsius? ${a}`);
+// b = a * 1.8 + 32;
+// console.log(`${a} (C) = ${b} (F)`);
+
+//Ex4: Draw using Turtle
+// // 1. A square
+// fd(100);
+// rt(90);
+// fd(100);
+// rt(90);
+// fd(100);
+
+//2. A equilateral triangle
+// rt(90);
+// fd(100);
+// lt(120);
+// fd(100);
+// lt(120);
+// // fd(100);
